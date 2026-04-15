@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "spotify/lib/mysql-connector-j-9.4.0.jar",
+        "spotify/lib/junit-platform-console-standalone-1.10.2-sources.jar",
+        "spotify/lib/junit-platform-console-standalone-1.10.2.jar"
+    ]
+}

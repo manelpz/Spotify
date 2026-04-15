@@ -6,7 +6,6 @@ public class App {
 
         DBManager db = new DBManager();
 
-
         List<Audio> audios = db.getAudios();
 
         for(Audio a : audios){
